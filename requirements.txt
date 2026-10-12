@@ -1,0 +1,5 @@
+torch>=2.1.0
+torchvision>=0.16.0   # transforms.v2 ToImage / ToDtype(scale=True)
+numpy>=1.19.0
+pillow>=8.0.0
+scipy>=1.5.0
